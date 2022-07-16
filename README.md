@@ -9,6 +9,8 @@ This repository consists of the codebase for *Assessment of User Activity for th
 
 ## Data Visualization
 
+<center><img src="/images/googletrend-btc.png" width="500"></center>
+
 
 
 ## Statistical Analysis 
