@@ -1,0 +1,21 @@
+{"keywords":[
+             {"name":"binance",
+              "start_date":"2016-07-01",
+              "end_date":"2020-03-08",
+              "get_data": false,
+              "normalize_data": true,
+              "read_from_csv":true,
+              "files":[
+                "binance_2016-07-01-2017-01-01.csv",
+                "binance_2017-01-01-2017-07-01.csv",
+                "binance_2017-07-01-2018-01-01.csv",
+                "binance_2018-01-01-2018-07-01.csv",
+                "binance_2018-07-01-2019-01-01.csv",
+                "binance_2019-01-01-2019-07-01.csv",
+                "binance_2019-07-01-2020-01-01.csv",
+                "binance_2020-01-01-2020-07-01.csv",
+                "binance_2020-07-01-2021-01-01.csv",
+                "binance_2021-01-01-2021-03-08.csv"]
+            }    
+            ]
+}

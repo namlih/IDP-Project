@@ -1,0 +1,33 @@
+{"keywords":[
+             {"name":"bitcoin",
+              "start_date":"2010-01-01",
+              "end_date":"2020-03-08",
+              "get_data": false,
+              "normalize_data": true,
+              "read_from_csv":true,
+              "files":["bitcoin_2010-01-01-2010-07-01.csv",
+                "bitcoin_2010-07-01-2011-01-01.csv",
+                "bitcoin_2011-01-01-2011-07-01.csv",
+                "bitcoin_2011-07-01-2012-01-01.csv",
+                "bitcoin_2012-01-01-2012-07-01.csv",
+                "bitcoin_2012-07-01-2013-01-01.csv",
+                "bitcoin_2013-01-01-2013-07-01.csv",
+                "bitcoin_2013-07-01-2014-01-01.csv",
+                "bitcoin_2014-01-01-2014-07-01.csv",
+                "bitcoin_2014-07-01-2015-01-01.csv",
+                "bitcoin_2015-01-01-2015-07-01.csv",
+                "bitcoin_2015-07-01-2016-01-01.csv",
+                "bitcoin_2016-01-01-2016-07-01.csv",
+                "bitcoin_2016-07-01-2017-01-01.csv",
+                "bitcoin_2017-01-01-2017-07-01.csv",
+                "bitcoin_2017-07-01-2018-01-01.csv",
+                "bitcoin_2018-01-01-2018-07-01.csv",
+                "bitcoin_2018-07-01-2019-01-01.csv",
+                "bitcoin_2019-01-01-2019-07-01.csv",
+                "bitcoin_2019-07-01-2020-01-01.csv",
+                "bitcoin_2020-01-01-2020-07-01.csv",
+                "bitcoin_2020-07-01-2021-01-01.csv",
+                "bitcoin_2021-01-01-2021-03-08.csv"]
+            }    
+            ]
+}
